@@ -1,8 +1,15 @@
-.test {
+.wrapper {
   background-color: black;
-  height: 50vh;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .container-fluid {
   padding: 0px;
+}
+
+.startpage-text {
+  color: white;
 }
