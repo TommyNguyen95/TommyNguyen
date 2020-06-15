@@ -13,3 +13,11 @@
 .startpage-text {
   color: white;
 }
+
+.navbar {
+  background-color: black;
+}
+
+.navbar-image {
+  width: 20%;
+}
