@@ -1,11 +1,12 @@
 import React from 'react';
+import Startpage from './components/startpage/startpage';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <h1>Hej</h1>
+      <Startpage></Startpage>
     </div>
   );
-}
+};
 
 export default App;
