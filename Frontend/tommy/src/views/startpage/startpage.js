@@ -1,10 +1,6 @@
-import React from "react";
-import { Button } from "../../components/button";
-import { StartContainer, NavBar } from "./styledStartpage";
-
-const test = () => {
-  console.log("Tony ska bli knullad imorgon");
-};
+import React from 'react';
+import { Button } from '../../components/button';
+import { StartContainer, NavBar } from './styledStartpage';
 
 const Start = () => {
   return (
