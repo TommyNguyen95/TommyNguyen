@@ -1,10 +1,9 @@
-import React from "react";
-import Start from "./views/startpage/startpage";
+import React from 'react';
 
 function App() {
   return (
     <div className="App">
-      <Start />
+      <h1>Hej</h1>
     </div>
   );
 }
